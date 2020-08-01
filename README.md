@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 - Team 13
 
 ## Project Title: Variables Influencing Special Education Enrollment
 

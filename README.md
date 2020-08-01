@@ -2,7 +2,7 @@
 
 ## Project Title: Variables Influencing Special Education Enrollment
 
-## Team Members: Amanda Stambaugh, Katie Welter, Kelli Roddy, Scott Rehn
+### Team Members: Amanda Stambaugh, Katie Welter, Kelli Roddy, Scott Rehn
 
 ## Project Description/Outline: 
 

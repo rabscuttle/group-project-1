@@ -1,10 +1,10 @@
-Project 1
+# Project 1
 
-Project Title: Variables Influencing Special Education Enrollment
+## Project Title: Variables Influencing Special Education Enrollment
 
-Team Members: Amanda Stambaugh, Katie Welter, Kelli Roddy, Scott Rehn
+## Team Members: Amanda Stambaugh, Katie Welter, Kelli Roddy, Scott Rehn
 
-Project Description/Outline: 
+## Project Description/Outline: 
 
 In our work with some of the most challenging special education students in the state, there are several ad hoc hypotheses about how environmental and demographic factors affect special education identification and enrollment.  We would like to investigate some of these theories to see if any of these factors have a statistically significant impact on special education enrollment by district in the state of Minnesota.
 
